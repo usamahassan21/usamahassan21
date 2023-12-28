@@ -1,0 +1,13 @@
+nav ul{
+    display: flex;
+}
+li{
+    width: 130px;
+}
+nav{
+    background-color: aqua;
+}
+footer{
+    background-color: black;
+    color: aliceblue;
+}
